@@ -1,1 +1,29 @@
+type = "card"
+title = "Computational Physics Projects"
+description = "Selected two-person course projects. These reports are shared as samples of computational physics work and have not undergone peer review."
 
+[[items]]
+title = "Machine-Learning Detection of Potts-Model Phase Transitions"
+subtitle = "PHY3260 course project · Joint work with Zixi Chen"
+date = "Dec 2025"
+content = """
+We combined Swendsen–Wang Monte Carlo sampling with PCA/K-means, convolutional neural networks, and persistent homology to investigate phase-transition detection, finite-size effects, and strongly first-order transitions in the two-dimensional Potts model.
+
+The project and report were completed jointly by both authors.
+
+[Course report (PDF)](/papers/potts-project.pdf)
+"""
+tags = ["Monte Carlo", "Machine Learning", "Statistical Physics"]
+
+[[items]]
+title = "Numerical Analysis of the Airy Equation in the WKB Approximation"
+subtitle = "PHY2650 course project · Joint work with Zixi Chen"
+date = "May 2025"
+content = """
+We compared several numerical approaches to the Airy equation and examined the behavior of the WKB approximation near a classical turning point. We also investigated numerical instability caused by excitation of the exponentially growing Bi(x) solution.
+
+The project and report were completed jointly by both authors.
+
+[Course report (PDF)](/papers/airy-project.pdf)
+"""
+tags = ["Numerical Methods", "Differential Equations", "WKB"]
