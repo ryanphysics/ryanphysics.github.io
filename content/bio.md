@@ -1,5 +1,5 @@
-I am a PhD student at the School of Science, University of Example, advised by [Prof. Advisor One](https://example.com) and [Dr. Advisor Two](https://example.com).
+I am an undergraduate physics student at The Chinese University of Hong Kong, Shenzhen, expecting to graduate in July 2027.
 
-Prior to this, I obtained a BSc degree with First Class Honours in Natural Science from the University of Example.
+My interests lie in nonequilibrium dynamics, phase transitions, and computational physics. I am particularly interested in using numerical simulations, reduced-order modeling, and machine-learning methods to study complex physical systems.
 
-My current research focuses on investigating the mathematical principles of natural philosophy.
+I am currently gaining research experience in nonequilibrium quark–gluon plasma dynamics under the supervision of Prof. Yi Yin.
