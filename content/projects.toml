@@ -11,7 +11,7 @@ We combined Swendsen–Wang Monte Carlo sampling with PCA/K-means, convolutional
 
 The project and report were completed jointly by both authors.
 
-[Course report (PDF)](/papers/potts-project.pdf)
+[Course report (PDF)](/papers/Machine-Learning Detection of Potts-Model Phase Transitions.pdf)
 """
 tags = ["Monte Carlo", "Machine Learning", "Statistical Physics"]
 
