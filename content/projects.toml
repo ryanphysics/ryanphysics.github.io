@@ -1,6 +1,6 @@
 type = "card"
 title = "Computational Physics Projects"
-description = "Selected two-person course projects. These reports are shared as samples of computational physics work and have not undergone peer review."
+description = "Selected two-person course projects. These reports are shared as final results of computational physics coursework and have not undergone peer review."
 
 [[items]]
 title = "Machine-Learning Detection of Potts-Model Phase Transitions"
