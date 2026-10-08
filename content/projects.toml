@@ -11,7 +11,7 @@ We combined Swendsen–Wang Monte Carlo sampling with PCA/K-means, convolutional
 
 The project and report were completed jointly by both authors.
 
-[Course report (PDF)](/public/papers/Machine-Learning Detection of Potts-Model Phase Transitions.pdf)
+[Course report (PDF)](/papers/potts-project.pdf)
 """
 tags = ["Monte Carlo", "Machine Learning", "Statistical Physics"]
 
@@ -24,6 +24,6 @@ We compared several numerical approaches to the Airy equation and examined the b
 
 The project and report were completed jointly by both authors.
 
-[Course report (PDF)](/public/papers/Numerical Analysis of the Airy Equation in the WKB Approximation.pdf)
+[Course report (PDF)](/papers/airy-project.pdf)
 """
 tags = ["Numerical Methods", "Differential Equations", "WKB"]
